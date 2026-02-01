@@ -1,4 +1,5 @@
 ![Featured AI Assistant](https://github.com/Deekshap16/Content-management-system/blob/3440179be261b3ffa0ea32ec244da30a1d802c6d/Screenshot%202026-02-01%20102541.png)
+![Featured AI Assistant](https://github.com/Deekshap16/Content-management-system/blob/eab27d54cc4add414a7b46d692e55ba104c3a02b/Screenshot%202026-02-01%20102523.png)
 # Content Management System
 
 A full-stack content management system built with Node.js, Express, MongoDB, React, and Vite. This application allows users to create, manage, and publish content with a rich text editor, user authentication, and role-based access control.
